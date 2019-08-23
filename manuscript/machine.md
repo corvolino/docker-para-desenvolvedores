@@ -126,7 +126,7 @@ export AWS_SECRET_ACCESS_KEY=MY-SECRET-KEY
 ```
 Você pode encontrar mais informações sobre credencial AWS [nesse artigo](http://blogs.aws.amazon.com/security/post/Tx3D6U6WSFGOK2H/A-New-and-Standardized-Way-to-Manage-Credentials-in-the-AWS-SDKs).
 
-Quando criamos um ambiente utilizando o comando **docker-machine create**, o mesmo é traduzido para AWS na criação uma [instância EC2](https://aws.amazon.com/ec2/) e, em seguida é instalado todos os softwares necessários, automaticamente, no novo ambiente.
+Quando criamos um ambiente utilizando o comando **docker-machine create**, o mesmo é traduzido para AWS na criação de uma [instância EC2](https://aws.amazon.com/ec2/) e, em seguida é instalado todos os softwares necessários, automaticamente, no novo ambiente.
 
 Os parâmetros mais utilizados na criação desse ambiente são:
 
